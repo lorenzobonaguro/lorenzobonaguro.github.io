@@ -9,56 +9,83 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
+* Ph.D in Molecular Biomedicine (University of Bonn), 2020
+  - Final dissertation: "Creld1 controls T cell homeostasis in mouse and human"
+  - Final grade: summa cum laude
+* M.S. in Pharmaceutical Biotechnologies (University of Padova)
+  - Final dissertation: "Role of Creld1 in T cell biology"
+  - Final grade: 110/110 cum laude and accademic mention
+* B.S. in Health Biotechnologies (University of Padova)
+  - Final disseration: "The degradative pathway of R164H-SERCA1a mutant a preliminary study of the main ERAD's ubiquitin ligases by using RNA interference"
+  - Final grade: 110/110 cum laude and accademic mention
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Scientific Career
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025-current: ERC Joung Group Leader
+  * Molecular and Translational Immunomics
+  * DZNE Bonn - Systems Medicine
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023-2024: Junior Group Leader
+  * Molecular and Translational Immunomics
+  * University Clinic Bonn (UKB)
+  * Founded by ImmunoSensation2
 
-Publications
-======
+* 2020-2023: PostDoc
+  * DZNE Bonn - Systems Medicine
+  * Supervisor: Prof. Joachim Schultze
+
+* 2021-2022: Head of Operation
+  * PRECISE Genomic Platform @DZNE (Bonn)
+
+* 2017: Visiting PhD student
+  * WASEDA University
+  * Supervisor: Prof. Satoshi Tsuneda
+
+* 2016-2020: PhD candidate
+  * University of Bonn - LIMES Institute
+  * Supervisor: Prof. Michael Hich
+
+* 2015: ERASMUS exchange, master thesis inteship
+  * University of Bonn - LIMES institute
+  * Supervisor: Prof. Michael Hoch
+
+* 2013: Bachelor thesis intership
+  * University of Padova
+  * Supervisor: Prof. Doriana Sandona'
+
+# Awards
+* 2023: Renate und Karlheinz Schmidt-Stiftung Award (Early Academic Award)
+* 2020: Best publication award: Bonner Forum Biomedicine
+* 2018: Best poster award: Bonner Forum Biomedicine
+
+# Third Party Funding
+* 2025-2030: ERC StG - POLIS - Understand the chronic impact of PFAS on the adaptive immune system.
+* 2023-2025: ImmunoSensation2 - Junior Groul Leader founding
+* 2023-2026: ImmuDiet - Deutsche Forschungsgemeinschaft (DFG)
+
+# Coding Projects
+* 2022: [cyCONDOR](https://github.com/lorenzobonaguro/cyCONDOR) - high dimensionality flow cytometry analysis tool
+* 2021: [Clinical Match](https://github.com/lorenzobonaguro/clinical_match) - tool to avoid sample preparation batch effect in omics data
+* 2020: [huva](https://github.com/lorenzobonaguro/huva) - human variation analysis framework
+
+# Scholar
+Citations: 4013\
+h-index: 15\
+i10-index: 17
+
+# Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+# Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+# Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
