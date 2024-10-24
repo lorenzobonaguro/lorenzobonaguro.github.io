@@ -10,8 +10,8 @@
 locale                   : "en-GB"
 title                    : "Bonaguro Lab"
 title_separator          : "-"
-name                     : &name "Lorenzo Bonaguro"
-description              : &description "Young Group Leader @DZNE"
+name                     : &name "Bonaguro Lab"
+description              : &description "Junior Research Group @DZNE Bonn"
 url                      : https://lorenzobonaguro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzobonaguro/lorenzobonaguro.github.io"
@@ -21,7 +21,7 @@ repository               : "lorenzobonaguro/lorenzobonaguro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "Group_Picture.png"
   name             : "Lorenzo Bonaguro"
   pronouns         : # example: "she/her"  
   bio              : "Young Group Leader @DZNE"
