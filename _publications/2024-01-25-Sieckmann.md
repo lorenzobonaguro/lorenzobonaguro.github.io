@@ -1,7 +1,7 @@
 ---
 title: "BBSome-dependent ciliary Hedgehog signaling governs cell fate in the white adipose tissue"
 collection: publications
-category: preprint
+category: preprints
 permalink: /publication/2024-01-25-Sieckmann
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-01-25
