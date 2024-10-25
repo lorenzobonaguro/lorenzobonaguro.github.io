@@ -29,7 +29,7 @@ redirect_from:
 * 2023-2024: **Junior Group Leader**
   * *Molecular and Translational Immunomics*
   * University Clinic Bonn (UKB)
-  * Founded by <ins>ImmunoSensation2</.ins>
+  * Funded by <ins>ImmunoSensation2</ins>
 
 * 2020-2023: **PostDoc**
   * *DZNE Bonn - Systems Medicine*
