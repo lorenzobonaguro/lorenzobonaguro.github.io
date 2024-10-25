@@ -17,7 +17,7 @@ In ImmuDiet we aim to bridge the gap in knowledge regarding the effects of dieta
 
 ## ImmuNoids
 
-**ImmuNoids** is a *ImmunoSensation2* founded project\
+**ImmuNoids** is a *ImmunoSensation2* funded project\
 
 <img src="../images/cluster.png" alt="drawing" width="300" align="center"/>
 
@@ -27,7 +27,7 @@ In ImmuDiet we aim to bridge the gap in knowledge regarding the effects of dieta
 \
 There is growing evidence that currently used toxicological assessments of chemicals fail to fully capture their actual biological activity. While chemicals are routinely tested for acute toxic effects, often at high concentrations, potential function-modulating effects at low concentrations are often underexplored. The inclusion of up-to-date high-resolution methods in the toxicological screening praxis would allow instead to fully capture the complex bioactivity profile of these compounds, which depends on numerous aspects including bioavailability, route of exposure and individual susceptibility. While the last 100 years have seen an enormous number of chemicals introduced into our daily life, of which a large number are well-known to persist in the environment, a sufficient understanding of their bioactivity potential is lacking. Also based on growing evidence, it is not far-fetched to hypothesize that some of these industrial chemicals could be partly responsible for the constant increase of non-communicable diseases including autoimmune diseases, chronic inflammatory diseases but also cancer or (neuro)degenerative diseases. Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) are a class of xenobiotics with proven strong toxicity at high-level exposure, while little is known about their bioactivity at concentrations commonly detected in human samples. Considering their high stability and ubiquitous occurrence in the environment and human body, exposure to PFAS has reached a pandemic scale. I postulate that it is of outmost importance to finally dissect the potential of these compounds to molecularly interfere with organ functionalities at the single-cell level using state-of-the-art high-resolution omics technologies. Supported by an interdisciplinary training in pharmacology, systems immunology, omics, animal and cellular models, and bioinformatics, I represent a prime candidate to successfully develop this project and clarify the bioactivity of PFAS.
 
-**POLIS** is an *European Research Council* (ERC) founded project\
+**POLIS** is an *European Research Council* (ERC) funded project\
 
 <img src="../images/erc.png" alt="drawing" width="200" align="center"/>
 
