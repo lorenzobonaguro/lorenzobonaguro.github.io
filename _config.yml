@@ -10,8 +10,8 @@
 locale                   : "en-GB"
 title                    : "Bonaguro Lab"
 title_separator          : "-"
-name                     : &name "Lorenzo Bonaguro"
-description              : &description "Young Group Leader @DZNE"
+name                     : &name "Bonaguro Lab"
+description              : &description "Junior Research Group @DZNE Bonn"
 url                      : https://lorenzobonaguro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzobonaguro/lorenzobonaguro.github.io"
@@ -21,14 +21,14 @@ repository               : "lorenzobonaguro/lorenzobonaguro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
-  name             : "Lorenzo Bonaguro"
+  avatar           : "logo.png"
+  name             : "Bonaguro Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Young Group Leader @DZNE"
+  bio              : "Junior Research Group @DZNE Bonn"
   location         : "Bonn (Germany)"
   employer         : "DZNE Bonn / UKB Bonn"
   uri              : # URL
-  email            : "lorenzo.bonaguro@dzne.de" 
+  email            : # email
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/lorenzo-bonaguro-33427a9a/"
+  linkedin         : "lorenzo-bonaguro-33427a9a/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,11 +76,15 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Journal Articles'
+    title: 'Books'
+  preprints:
+    title: 'Preprints'
   manuscripts:
-    title: 'Books'    
+    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  reviews:
+    title: 'Reviews'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
