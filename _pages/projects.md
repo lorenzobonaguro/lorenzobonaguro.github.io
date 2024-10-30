@@ -7,8 +7,9 @@ redirect_from:
 ---
 
 ## ImmuDiet
+<img src="../images/ImmuDiet.png" alt="drawing" width="1000" align="center"/>
 
-
+\
 In ImmuDiet we aim to bridge the gap in knowledge regarding the effects of dietary intervention on circulating immune cells in humans with an emphasis on individuals at risk to develop NCDs related to overweight, obesity and/or metabolic syndrome. Important research in murine models showed clear evidence for a strong dependency between diet and composition/fitness of the immune system. We, therefore, hypothesize that changes in diet, particularly from Western-style diets to Vegetarian or Nordic diets over a certain period of time will lead to reduced inflammatory tonus or a reduced low-grade chronic inflammation that can be determined by scRNAseq in circulating immune cells. In this respect, highly controlled longitudinal dietary intervention studies are an ideal setting to study the effects induced by dietary changes on the human immune system. Here, we intend to investigate the transcriptional changes at single cell level in peripheral blood in both homeostatic conditions and after ex vivo LPS challenge as a surrogate for immune cell activation. To address the hypothesis, together with colleagues of the department of nutritional and food science, we already conducted a cohort study of male individuals, overweight and with several risk factors for cardiovascular and neurodegenerative diseases and propose here to generate and analyse scRNAseq data. We postulate that the high-dimension, high-resolution data derived from scRNAseq will give a picture of unprecedented resolution about the changes that occur within the immune system because of dietary changes. Despite the high dimensionality of the data, the complexity of the composition of each diet will make it difficult to directly build a relationship between single components and the impact on the immune system. we will therefore complement the information derived from the scRNAseq analysis with in vitro experiments where the most likely dietary components will be tested on PBMCs derived from the same participants in the dietary intervention study to link specific components to the observed phenotype. We am confident that this in depth analysis will open new avenues for tailored interventions in individuals at elevated risks for developing NCDs due to chronic low-grade inflammatory immune reactions induced by current dietary habits in our societies. 
 
 **ImmuDiet** is a *Deutsche Forschungsgemeinschaft* (DFG) funded project
@@ -16,9 +17,17 @@ In ImmuDiet we aim to bridge the gap in knowledge regarding the effects of dieta
 \
 <img src="../images/dfg.png" alt="drawing" width="200" align="center"/>
 
-## ImmuNoids
+## ImmunAge
+<img src="../images/ImmunAge.png" alt="drawing" width="1000" align="center"/>
 
-**ImmuNoids** is a *ImmunoSensation2* funded project
+\
+Aging significantly impacts the immune system, leading to various challenges in maintaining effective immune responses. An aged immune system is marked by various functional declines, including impaired capacity to fight infections, reduced response to vaccinations and increased risk of age-related diseases. On a cellular level, immune aging is characterized by cell type-specific dysfunctions: antigen-presenting cells show reduced antigen processing and presentation, B cells produce fewer and lower-quality antibodies, and T cells increasingly adopt a memory phenotype, with a corresponding reduction in TCR diversity and antigen recognition range. Alongside cellular senescence, aging is often accompanied by uncontrolled, low-grade inflammation—referred to as "inflammageing."
+
+The ImmunAge project aims to uncover the molecular mechanisms driving immunosenescence and inflammageing by generating an in vitro model using lymphoid organoids. By CRISPR-Cas9 to perturbation of the ERCC1 gene (Yousefzadeh et al., Nature 2021), we will create a model for immunosenescence. To explore the suitability of this model, we will utilize single-cell multiomic approaches, providing high-resolution insights into cellular and molecular determinants associated with immune aging.
+
+
+
+**ImmunAge** is a *ImmunoSensation2* funded project
 
 \
 <img src="../images/cluster.png" alt="drawing" width="300" align="center"/>
