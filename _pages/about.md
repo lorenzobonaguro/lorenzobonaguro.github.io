@@ -6,13 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src="../images/logo_mainpage.png" alt="drawing" width=500 align="middle"/>
 
-**This website is still under development, the content is far from complete**
+\
+**Revolutionizing Healthcare through Immunomics**
 
-Our research group in **molecular and translational immunomics** uses a systems-level omics approach to understand how the immune system functions in health and disease. We integrate classical hypothesis-driven research with high-resolution, high-throughput technologies, such as single-cell RNA sequencing, and advanced analytical methods, including artificial intelligence approaches. 
-Specifically, we are interested in how environmental exposures like diet and pollution affect the immune system's ability to respond to challenges. We investigate the exposome's influence on immune response and vaccination efficacy using model systems like tonsil organoids and computational tools to decipher the molecular mechanisms that govern immune fitness.
+The past century has witnessed remarkable advancements in medicine, significantly extending lifespans and improving quality of life. Breakthroughs in basic biology and pharmacology, such as the development of antibiotics and vaccines, have revolutionized our approach to infectious diseases. However, as non-communicable diseases now pose the greatest health threat, a new paradigm is needed.
 
-<img src="../images/LabSkills.png" alt="drawing" width="500" align="center"/>
+**Precision Medicine: A Systems Biology Approach**
 
-### Our aim
-Over the last 100 years, quality of life and expectancy have drastically improved due to massive advancements in medical fields. These developments were going hand-in-hand with groundbreaking research in basic biology and pharmacology. For example, the discovery and development of antibiotics and the design of several vaccination strategies have revolutionized the way we deal with infections. In the 21st century, when, in non-pandemic situations, the highest causes of death are non-communicable diseases, we need to define new strategies to tackle and eradicate those diseases. These diseases are complex and are based on the individual predisposition of the patient and their clinical history. The combination of high-dimensionality methodologies for deep patient profiling is the only strategy to develop a precision medicine approach to find a successful treatment for these diseases. Compared to a more traditional approach, system-level immunomics research requires a highly interdisciplinary team and a collaborative effort to reach the critical mass of data necessary to understand complex diseases, which are the ideas and fundamentals of our scientific approach.
+Complex diseases are influenced by a multitude of factors, including genetics, environment, and lifestyle. To address these challenges, our research group employs a systems biology approach to molecular and translational immunomics. By integrating high-resolution, high-throughput technologies like single-cell RNA sequencing with advanced computational methods, including artificial intelligence, we aim to unravel the intricate mechanisms underlying immune function and dysfunction.
+
+**Our Research Focus**
+
+We are particularly interested in understanding how environmental factors, such as diet and pollution, impact the immune system's ability to respond to challenges. By studying model systems like tonsil organoids and leveraging computational tools, we seek to uncover the molecular determinants of immune fitness and vaccination efficacy.
+
+Our research team combines biological expertise with advanced technological approaches to address critical scientific questions. We are dedicated to developing innovative analytical methods and workflows to enhance our understanding of complex biological systems.
+
+Ultimately, our goal is to develop precision medicine strategies that can tailor treatments to individual patients, leading to more effective and personalized healthcare.
+
+\
+<img src="../images/Group_Picture.png" alt="drawing" width=500 align="middle"/>

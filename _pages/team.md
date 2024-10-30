@@ -5,17 +5,6 @@ author_profile: true
 redirect_from: 
   - /team.html
 ---
-
-<img src="../images/Group_Picture.png" alt="drawing" width=500 align="middle"/>
-
-
-
-
-
-
-\
-\
-\
 <img src="../images/Profile_Bonaguro.png" alt="drawing" width=800 align="middle"/>
 
 \
@@ -24,3 +13,7 @@ In my group in molecular and translational immunomics, I want to take advantage 
 
 **contact:** lorenzo.bonaguro(at)dzne.de
 
+\
+\
+\
+<img src="../images/LabSkills.png" alt="drawing" width="500" align="center"/>
