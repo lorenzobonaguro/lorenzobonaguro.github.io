@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="../images/logo_mainpage.png" alt="drawing" width=500 align="middle"/>
+<img src="../images/logo_mainpage.png" alt="drawing" width=1000 align="middle"/>
 
 \
 **Revolutionizing Healthcare through Immunomics**
@@ -26,4 +26,4 @@ Our research team combines biological expertise with advanced technological appr
 Ultimately, our goal is to develop precision medicine strategies that can tailor treatments to individual patients, leading to more effective and personalized healthcare.
 
 \
-<img src="../images/Group_Picture.png" alt="drawing" width=500 align="middle"/>
+<img src="../images/Group_Picture.png" alt="drawing" width=400 align="middle"/>
