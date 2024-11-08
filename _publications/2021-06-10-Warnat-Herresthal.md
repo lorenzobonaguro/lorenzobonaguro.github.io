@@ -3,7 +3,7 @@ title: "Swarm learning for decentralized and confidential clinical machine learn
 collection: publications
 category: manuscripts
 permalink: /publication/2021-06-10-Warnat-Herresthal
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2021-06-10
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/s41586-021-03583-3'

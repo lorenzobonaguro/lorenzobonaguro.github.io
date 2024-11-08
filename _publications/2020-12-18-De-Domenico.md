@@ -3,7 +3,7 @@ title: "Optimized workflow for single-cell transcriptomics on infectious disease
 collection: publications
 category: manuscripts
 permalink: /publication/2020-12-18-De-Domenico
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2020-12-18
 venue: 'Cell'
 paperurl: 'https://star-protocols.cell.com/protocols/356'

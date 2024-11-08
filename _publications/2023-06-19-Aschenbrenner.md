@@ -3,7 +3,7 @@ title: "huva: A human variation analysis framework to predict gene perturbation 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-19-Aschenbrenner
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2023-06-16
 venue: 'STAR Protocols'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S266616672300151X'

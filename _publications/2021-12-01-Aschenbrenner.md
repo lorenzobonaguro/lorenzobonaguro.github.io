@@ -3,7 +3,7 @@ title: "Disease severity-specific neutrophil signatures in blood transcriptomes 
 collection: publications
 category: manuscripts
 permalink: /publication/2021-12-01-Aschenbrenner
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2021-12-01
 venue: 'Genome Medicine'
 paperurl: 'https://link.springer.com/article/10.1186/s13073-020-00823-5'

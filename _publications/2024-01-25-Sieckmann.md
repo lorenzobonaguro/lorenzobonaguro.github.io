@@ -3,7 +3,7 @@ title: "BBSome-dependent ciliary Hedgehog signaling governs cell fate in the whi
 collection: publications
 category: preprints
 permalink: /publication/2024-01-25-Sieckmann
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2024-01-25
 venue: 'BioRxiv'
 paperurl: 'https://www.biorxiv.org/content/biorxiv/early/2024/01/25/2024.01.25.576526.full.pdf'
