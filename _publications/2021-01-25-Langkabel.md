@@ -3,7 +3,7 @@ title: "Induction of peri-implantation stage synthetic embryos using reprogrammi
 collection: publications
 category: preprints
 permalink: /publication/2021-01-25-Langkabel
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2021-01-25
 venue: 'BioRxiv'
 paperurl: 'https://www.biorxiv.org/content/biorxiv/early/2021/01/25/2021.01.25.428068.full.pdf'

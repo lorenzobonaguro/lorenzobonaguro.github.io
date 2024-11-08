@@ -3,7 +3,7 @@ title: "Induction of Rosette-to-Lumen stage embryoids using reprogramming paradi
 collection: publications
 category: manuscripts
 permalink: /publication/2021-12-16-Langkabel
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2021-12-16
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-021-27586-w'

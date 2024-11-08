@@ -3,7 +3,7 @@ title: "Severe COVID-19 is marked by a dysregulated myeloid cell compartment"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-09-17-Schulte-Schrepping
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2020-09-17
 venue: 'Cell'
 paperurl: 'https://www.cell.com/cell/fulltext/S0092-8674(20)30992-2'

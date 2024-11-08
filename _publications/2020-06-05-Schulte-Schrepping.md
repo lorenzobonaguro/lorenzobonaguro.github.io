@@ -3,7 +3,7 @@ title: "Suppressive myeloid cells are a hallmark of severe COVID-19"
 collection: publications
 category: preprints
 permalink: /publication/2020-06-05-Schulte-Schrepping
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2020-06-05
 venue: 'MedRxiv'
 paperurl: 'https://www.medrxiv.org/content/medrxiv/early/2020/06/05/2020.06.03.20119818.full.pdf'

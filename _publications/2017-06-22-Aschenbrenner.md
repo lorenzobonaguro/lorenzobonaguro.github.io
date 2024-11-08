@@ -3,7 +3,7 @@ title: "A cross-species approach to identify transcriptional regulators exemplif
 collection: publications
 category: manuscripts
 permalink: /publication/2017-06-22-Aschenbrenner
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2017-06-22
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-017-04370-9'
