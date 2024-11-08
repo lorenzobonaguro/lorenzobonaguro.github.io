@@ -75,16 +75,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  reviews:
+    title: 'Reviews'
+  manuscripts:
+    title: 'Journal Articles'  
   books:
     title: 'Books'
   preprints:
-    title: 'Preprints'
-  manuscripts:
-    title: 'Journal Articles'    
+    title: 'Preprints'  
   conferences:
     title: 'Conference Papers'
-  reviews:
-    title: 'Reviews'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
