@@ -6,7 +6,7 @@ permalink: /publication/2021-12-16-Langkabel
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2021-12-16
 venue: 'Nature Communications'
-paperurl: 'https://link.springer.com/article/10.1186/s13073-020-00823-5'
+paperurl: 'https://www.nature.com/articles/s41467-021-27586-w'
 citation: 'Jan Langkabel, Arik Horne, Lorenzo Bonaguro, Lisa Holsten, Tatiana Hesse, Alexej Knaus, Yannick Riedel, Matthias Becker, Kristian Händler, Tarek Elmzzahi, Kevin Bassler, Nico Reusch, Leon Harootoonovtch Yeghiazarian, Tal Pecht, Adem Saglam, Thomas Ulas, Anna C Aschenbrenner, Franziska Kaiser, Caroline Kubaczka, Joachim L Schultze, Hubert Schorle. (2021). &quot;Induction of Rosette-to-Lumen stage embryoids using reprogramming paradigms in ESCs; <i>Nature Communications</i>. 13'
 ---
 
