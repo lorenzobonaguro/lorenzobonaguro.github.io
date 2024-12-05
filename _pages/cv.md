@@ -22,11 +22,7 @@ redirect_from:
 
 # Scientific Career
 
-* 2025-current: **ERC Joung Group Leader**
-  * *Molecular and Translational Immunomics*
-  * DZNE Bonn - Systems Medicine
-
-* 2023-2024: **Junior Group Leader**
+* 2023-current: **Junior Group Leader**
   * *Molecular and Translational Immunomics*
   * University Clinic Bonn (UKB)
   * Funded by <ins>ImmunoSensation2</ins>
