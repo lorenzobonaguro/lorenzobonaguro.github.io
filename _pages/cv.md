@@ -22,7 +22,12 @@ redirect_from:
 
 # Scientific Career
 
-* 2023-current: **Junior Group Leader**
+* 2025-current: **Group Leader**
+  * *Molecular and Translational Immunomics*
+  * German Center for Neurodegenerative Diseases (DZNE) - Bonn
+  * Funded by <ins>ERC StG - POLIS</ins>
+
+* 2023-2025: **Junior Group Leader**
   * *Molecular and Translational Immunomics*
   * University Clinic Bonn (UKB)
   * Funded by <ins>ImmunoSensation2</ins>

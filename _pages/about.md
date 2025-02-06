@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Molecular and Translational Immunomics"
+title: "Molecular and Translational Immunaging"
 author_profile: true
 redirect_from: 
   - /about/
