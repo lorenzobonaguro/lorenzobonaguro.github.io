@@ -26,4 +26,4 @@ Our research team combines biological expertise with advanced technological appr
 Ultimately, our goal is to develop precision medicine strategies that can tailor treatments to individual patients, leading to more effective and personalized healthcare.
 
 \
-<img src="../images/Group_picture.png" alt="drawing" width=600 align="middle"/>
+<img src="../images/Group_Picture.png" alt="drawing" width=600 align="middle"/>
