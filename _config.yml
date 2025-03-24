@@ -11,7 +11,7 @@ locale                   : "en-GB"
 title                    : "Bonaguro Lab"
 title_separator          : "-"
 name                     : &name "Bonaguro Lab"
-description              : &description "Junior Research Group @DZNE Bonn"
+description              : &description "Research Group Leader @DZNE Bonn"
 url                      : https://lorenzobonaguro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzobonaguro/lorenzobonaguro.github.io"
@@ -24,10 +24,10 @@ author:
   avatar           : "logo.png"
   name             : "Bonaguro Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Research Group @DZNE Bonn"
+  bio              : "Research Group Leader @DZNE Bonn"
   location         : "Bonn (Germany)"
   employer         : "DZNE Bonn / UKB Bonn"
-  uri              : # URL
+  uri              : "http://www.dzne.de/bonaguro"
   email            : # email
 
   # Academic websites
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : lorenzobonaguro
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
