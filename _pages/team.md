@@ -34,4 +34,12 @@ I am a PhD student working on the ImmunAge project, where I investigate the mech
 \
 \
 \
+<img src="../images/Profile_Henschel.png" alt="drawing" width=800 align="middle"/>
+
+\
+As a PhD student working on the POLIS project, I investigate how perfluoroalkyl and polyfluoroalkyl substances (PFAS) affect the immune system. Using human immune organoids in combination with high-resolution single-cell omics technologies, I aim to elucidate how PFAS modulate the function of immune cells and contribute to the development of diseases such as neurodegenerative disorders, autoimmune diseases or cancer. I am particularly fascinated by the complex interactions within and between immune cells and their dynamic interplay with the environment. My work is driven by a strong desire to generate insights that meaningfully advance human health.
+
+\
+\
+\
 <img src="../images/LabSkills.png" alt="drawing" width="500" align="center"/>
