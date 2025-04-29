@@ -45,7 +45,7 @@ As a PhD student working on the POLIS project, I investigate how perfluoroalkyl 
 <img src="../images/Profile_Zajac.png" alt="drawing" width=800 align="middle"/>
 
 \
-As a PhD student working on the POLIS project, I investigate how perfluoroalkyl and polyfluoroalkyl substances (PFAS) affect the immune system. Using human immune organoids in combination with high-resolution single-cell omics technologies, I aim to elucidate how PFAS modulate the function of immune cells and contribute to the development of diseases such as neurodegenerative disorders, autoimmune diseases or cancer. I am particularly fascinated by the complex interactions within and between immune cells and their dynamic interplay with the environment. My work is driven by a strong desire to generate insights that meaningfully advance human health.
+Fascinated by the complexity of the immune system I am interested in the changes cells of the immune system undergo during an infection, especially, how an infection with the SARS-COV-2 virus alters immune cells and can lead to extended or chronic ailments also known as Long-COVID. For this purpose I am working with a refined method of sequencing called single-cell long-read sequencing allowing for detailed insights into cells behavior. I want to contribute my findings which hopefully help to find treatment and cure.
 
 \
 \
